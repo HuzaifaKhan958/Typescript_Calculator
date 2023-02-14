@@ -1,0 +1,33 @@
+1)node -v "to check version"
+2)tsc -v "to check type script version"
+3)tsc --init "to create tsconfig.json file"
+4)npm init -y "to create package.json file"
+5)In tsconfig.json file change "target" to ES2022
+6)In tsconfig.json file change "module" to NodeNext
+7)In tsconfig.json file change "moduleResolution" to NodeNext
+8 a)In package.json file write "type":"module" after "main"
+8 b)In package.json file write "bin":"whatever file name"
+e.g: "bin":"./index.js"
+9)npm i @types/node -D "to add types of nodes" it will create 
+package-lock.json file and node_modules folder
+10)npm i inquirer "in dependies"
+11)npm i -D @types/inquirer "in devdependies"
+12)npm i chalk "in dependies"
+13)npm i chalk animation "in dependies"
+14)npm i -D @types/chalk "in devdependies"
+15)npm i -D @types/chalk-animation "in devdependies"
+16)https://www.npmjs.com/package/inquirer
+17)https://www.npmjs.com/package/chalk-animation
+18 a)https://www.ascii.co.uk/art/calculator
+18 b) tsc
+18 c) node index.js
+19)npm login "to login to your npm account"
+20)password mynameishuzaifa
+21)user name mhkhan
+22)npm publish
+23)npx dexter_calculator
+24)https://www.npmjs.com/package/dexter_calculator/v/1.3.0
+25)https://github.com/panaverse/learn-typescript
+26) npm isntall "if you change version"
+27)npx dexter_guessing
+28)#!/usr/bin/env node
